@@ -2,11 +2,13 @@
 **
 ![image](./Images/Title.png)  
 
-PreLude:- A fledgling startup Road Warrior  aims to create an advanced online platform for trip management, enabling travellers to conveniently access manage and plan  all their trips. This service will be accessible both through web browsers and mobile devices. It will provide a convenient and unified interface for booking hotels taxis and Flight trips. The initial aggregators will be Fabre and Apolo and the vision is to extend aggregators to major Travel aggregators in a streamlined fashion. The growth of the portal will e through acquiring customers and benefit by charging a commission on the portal for the bookings and also value added services like Analytics Reporting and Trip Management for marketers and customers respectively. The solution also will gain organic growth through facebook and social media integration.
+* PreLude
+A fledgling startup Road Warrior  aims to create an advanced online platform for trip management, enabling travellers to conveniently access manage and plan  all their trips. This service will be accessible both through web browsers and mobile devices. It will provide a convenient and unified interface for booking hotels taxis and Flight trips. The initial aggregators will be Fabre and Apolo and the vision is to extend aggregators to major Travel aggregators in a streamlined fashion. The growth of the portal will e through acquiring customers and benefit by charging a commission on the portal for the bookings and also value added services like Analytics Reporting and Trip Management for marketers and customers respectively. The solution also will gain organic growth through facebook and social media integration.
 
-The Vision:- Is to support 15 million existing customers and Grow Rapidly by providing a convergent dash board which will meet all the travel planning and Management needs. Also new aggregators and travel information service providers and travel bookers should be easily accommodated and interfaced seamlessly. The system should be able to support large customer base without losing responsiveness, accurate and uptotodate travel information at  the customers finger tips.
+* The Vision
+Is to support 15 million existing customers and Grow Rapidly by providing a convergent dash board which will meet all the travel planning and Management needs. Also new aggregators and travel information service providers and travel bookers should be easily accommodated and interfaced seamlessly. The system should be able to support large customer base without losing responsiveness, accurate and uptotodate travel information at  the customers finger tips.
 
-Business Requirements:-
+* Business Requirements:-
 Short Term
 1)	On Authentication the system should dbe able to scrape the customers emails and filter for Trip related Emails.
 2)	Provide a dashboard for the customer to list and create update and delete customer trips in one unified location
@@ -34,11 +36,12 @@ Since Road Warrior is a startup the primary considerations for ADR Would be
 The approach to solve the Road Requirements should be a evolutionary prototype/ MVP
 
 * The Architecture
-* [Architectural Characteristics](./Sequence%20Diagrams/MealPlanSubscription.png)
-* [Actor/Action Approach](./Sequence%20Diagrams/MealPlanSubscription.png)
-* [High Level Design -HLD](./Sequence%20Diagrams/MealPlanSubscription.png)
-* [User Activity Diagram](./Sequence%20Diagrams/MealPlanSubscription.png)
-* [ADR's](./Sequence%20Diagrams/MealPlanSubscription.png)
-* [System Design](./Sequence%20Diagrams/MealPlanSubscription.png)
+* [Architectural Characteristics](./Images/ArchCharecteristics.png)
+* [Actor/Action Approach](./Images/ActorAction.png)
+* [High Level Design -HLD](./Images/HLD.png)
+* [User Activity Diagram](./Imagess/User_Sequence_Diagram.png)
+* [Polling Activity Diagram](./Imagess/Polling_Sequence_Diagram.png)
+* [ADR's](./ADR)
+* [System Design](./Images/Road Warriors - System Design.png)
 
 
