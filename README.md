@@ -39,9 +39,9 @@ The approach to solve the Road Requirements should be a evolutionary prototype/ 
 * [Architectural Characteristics](./Images/ArchCharecteristics.png)
 * [Actor/Action Approach](./Images/ActorAction.png)
 * [High Level Design -HLD](./Images/HLD.png)
-* [User Activity Diagram](./Imagess/User_Sequence_Diagram.png)
-* [Polling Activity Diagram](./Imagess/Polling_Sequence_Diagram.png)
+* [User Activity Diagram](./Images/User_Sequence_Diagram.png)
+* [Polling Activity Diagram](./Images/Polling_Sequence_Diagram.png)
 * [ADR's](./ADR)
-* [System Design](./Images/Road Warriors - System Design.png)
+* [System Design](./Images%2FRoad%20Warriors%20-%20System%20Design.png)
 
 
