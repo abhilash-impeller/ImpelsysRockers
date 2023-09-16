@@ -1,6 +1,6 @@
 # ImpelsysRockers
 **
-![image](./Images/Title.png)  
+![image](./Images/banner.gif)  
 
 * PreLude
 A fledgling startup Road Warrior  aims to create an advanced online platform for trip management, enabling travellers to conveniently access manage and plan  all their trips. This service will be accessible both through web browsers and mobile devices. It will provide a convenient and unified interface for booking hotels taxis and Flight trips. The initial aggregators will be Fabre and Apolo and the vision is to extend aggregators to major Travel aggregators in a streamlined fashion. The growth of the portal will e through acquiring customers and benefit by charging a commission on the portal for the bookings and also value added services like Analytics Reporting and Trip Management for marketers and customers respectively. The solution also will gain organic growth through facebook and social media integration.
